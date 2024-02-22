@@ -1,0 +1,18 @@
+# Local History for VSC
+.history/
+
+# Private files
+
+*.csv 
+*.json
+*.csv.gz
+*.tsv
+*.tsv.gz
+*.xlsx
+*.RData
+*.Rproj
+*.Rproj.user
+*.Rhistory
+
+# Carpeta especifica
+Conjunto_Datos/
